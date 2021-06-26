@@ -1,0 +1,39 @@
+{
+    "code": 0,
+    "data": {
+        "user": {
+            "id": 279232,
+            "mobile": "15913189323",
+            "email": "jiatao_xie@sina.com",
+            "role": 0,
+            "avatar": "https://socialstatic.followme-acceleration.com/avatar/avatar-279232-2020-02-16-15-54-02-8233.png",
+            "bloodGroup": 0,
+            "certLayout": 0,
+            "createTime": "1561794843",
+            "gender": 0,
+            "introduction": "Traders' passions are lonely",
+            "nation": "86",
+            "serviceArea": "cn",
+            "type": 2,
+            "vcode": 323823,
+            "nickname": "9323196",
+            "status": 2,
+            "parentVcode": 75,
+            "bigAvatar": "",
+            "idNo": "44**************77",
+            "serviceType": 0,
+            "accountInfo": {
+                "accountIndex": 2,
+                "accountType": 1,
+                "brokerId": 9,
+                "id": 457954,
+                "mt4Account": "670067",
+                "strategyDescription": "",
+                "userId": 279232,
+                "userType": 2
+            },
+            "token": "mBY7Mg809BVHH9OsS8bWuKebjyfISdewzHfJczbKiwre86AgYo8kqtfcUBDHj7WeHZMBpfH9uKOsFoec29A59Q"
+        },
+        "ticket": "RQN251JFmZID8Arg57ynCijohG4R1CN4J4LsGJ9BjUVRAnBpvS0UD7Xc0wfMnHWihuDdVw9opdlAWWK2HPIuuw"
+    }
+}
