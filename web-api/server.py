@@ -1,7 +1,7 @@
 from flask import Flask
 from flask import request
 import json
-import util
+from util import pubutil
 from flask_cors import CORS
 
 app = Flask(__name__)
@@ -12,7 +12,7 @@ CORS(app)
 # 路由默认只支持GET，如果需要增加，需要自行制定
 @app.route('/', methods=["GET", "POST"])
 def hello_world():
-    data = util.getData("urlData/login.json")
+    data = pubutil.getData("urlData/login.json")
     return data
 
 @app.route('/ping', methods=["GET", "POST"])
